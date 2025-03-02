@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrea Bolis
 
-<!--
-**AndreaBolis98/AndreaBolis98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Student & Automation Expert** | Passionate about Data, Machine Learning & Industrial Automation 🤖⚡
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🎓 **Bachelor’s in Artificial Intelligence** - Università degli Studi di Pavia  
+- 💼 **OT Senior Specialist** @ Next-Stel Solutions  
+- 🏫 **Assistant Professor** @ I.T.S Lombardia Mechatronics  
+- ⚡ **Automation & Industry 4.0 Enthusiast**  
+
+I specialize in **real-time data collection, automation, and AI-driven decision-making**.  
+My expertise spans **Python, SQL, MySQL, JavaScript, and Machine Learning (Scikit-learn)**.  
+I'm also experienced in **predictive maintenance, process optimization, and industrial automation**.
+
+💡 I have **extensive experience in PLC programming** (Siemens, Omron, Exor) and **strong manual skills** in working with automation systems and industrial machinery.
+
+---
+
+### 🔧 Tech Stack & Tools  
+- **Programming:** Python 🐍, JavaScript  
+- **Machine Learning:** Scikit-learn, NumPy, Pandas  
+- **Databases:** SQL, MySQL  
+- **Automation & Industrial Control:** PLC & Robots (Siemens, Omron, Exor) 
+- **Hardware & Manual Skills:** Hands-on experience with automation systems, electrical installations, and troubleshooting  
+
+---
+
+### 📌 Projects  
+💡 Check out my projects on **automation, AI, and predictive maintenance**:  
+🔗 [GitHub Repositories](https://github.com/andreabolis)  
+
+---
+
+### 🎯 Let's Connect!  
+📧 **Email:** [andreabolis64@gmail.com](mailto:andreabolis64@gmail.com)  
+
+---
+
+⚡ *Passionate about motorsport, race strategy analysis, and mountain sports!*  
+🚀 *Always learning and exploring new AI, automation, and industrial control solutions!*
