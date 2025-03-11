@@ -5,7 +5,8 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 **Bachelor’s in Artificial Intelligence** - Università degli Studi di Pavia  
+- 🎓 **Bachelor’s in Artificial Intelligence** (ongoing) - Università degli Studi di Pavia
+- 🎓 **Mechatronics Postgraduate Course** - I.T.S Lombardia Mechatronics, IPSIA Fiocchi, Lecco
 - 💼 **OT Senior Specialist** @ Next-Stel Solutions  
 - 🏫 **Assistant Professor** @ I.T.S Lombardia Mechatronics  
 - ⚡ **Automation & Industry 4.0 Enthusiast**  
