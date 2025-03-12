@@ -29,7 +29,7 @@ I'm also experienced in **predictive maintenance, process optimization, and indu
 ---
 
 ### 📌 Projects  
-💡 Check out my projects on machine learning, 3D printing, and app development. 🚀
+💡 Check out my projects on machine learning, 3D printing, and app development. 🚀<br>
 🔗 [GitHub Repositories](https://github.com/AndreaBolis98?tab=repositories)  
 
 ---
