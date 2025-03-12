@@ -29,8 +29,8 @@ I'm also experienced in **predictive maintenance, process optimization, and indu
 ---
 
 ### 📌 Projects  
-💡 Check out my projects on **automation, AI, and predictive maintenance**:  
-🔗 [GitHub Repositories](https://github.com/andreabolis)  
+💡 Check out my projects on machine learning, 3D printing, and app development. 🚀
+🔗 [GitHub Repositories](https://github.com/AndreaBolis98?tab=repositories)  
 
 ---
 
